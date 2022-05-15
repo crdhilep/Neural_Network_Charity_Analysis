@@ -1,5 +1,22 @@
 # Neural_Network_Charity_Analysis
 
+## Source: 
+
+[AlphabetSoupCharity](AlphabetSoupCharity.ipynb)
+
+[AlphabetSoupCharity_Optimzation](AlphabetSoupCharity_Optimzation.ipynb)
+
+## HDF5 Links:
+
+[AlphabetSoupCharity.h5](AlphabetSoupCharity.h5)
+
+[AlphabetSoupCharity_optimzation_Attempt1.h5](AlphabetSoupCharity_optimzation_Attempt1.h5)
+
+[AlphabetSoupCharity_optimzation_Attempt2.h5](AlphabetSoupCharity_optimzation_Attempt2.h5)
+
+[AlphabetSoupCharity_optimzation_Attempt3.h5](AlphabetSoupCharity_optimzation_Attempt3.h5)
+
+
 ## Overview
 The purpose of this analysis was to Create a binary classifier that will tell the customer whether or not the applicants will be successful using alphabet soup using Neural Network.
 
